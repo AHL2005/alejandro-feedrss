@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Feed RSS</title>
+        <link>https://www.rssowl.org/</link>
+        <description>Mi primer feed RSS</description>
+        <generator>Visual Studio Code</generator>
+
+        <item>
+            <title>AI in 2024 – What does the future hold?</title>
+            <link>https://ubuntu.com//blog/ai-in-2024</link>
+            <description>In 2023, artificial intelligence progressed with challenges in data and computational resources.</description>
+            <guid isPermaLink="true">https://ubuntu.com//blog/ai-in-2024</guid>
+        </item>
+
+        <item>
+            <title>Automotive at CES 2024: What to expect</title>
+            <link>https://ubuntu.com//blog/automotive-at-ces-2024-what-to-expect</link>
+            <description>CES remains the top platform for unveiling groundbreaking innovations in the evolving automotive industry.</description>
+            <comments>https://ubuntu.com//blog/automotive-at-ces-2024-what-to-expect</comments>
+        </item>
+        <category>Automotive , CES , Event</category>
+
+        <item>
+            <title>MOTL: N33 NUC, Part 2</title>
+            <link>https://ubuntu.com//blog/motl-n33-nuc</link>
+            <description>Confirming N33 NUC PXE boot capability is challenging; checking BIOS for details.</description>
+            <source url="https://ubuntu.com//blog/motl-n33-nuc">Fuente del ítem</source>
+        </item>
+        <language>en</language>
+
+        <item>
+            <title>OpenStack with Sunbeam for small-scale private cloud infrastructure</title>
+            <link>https://ubuntu.com//blog/openstack-with-sunbeam-for-small-scale-private-cloud-infrastructure</link>
+            <description>Implementing a small-scale private cloud, including Kubernetes, can be complex and costly for organizations.</description>
+            <author>TytusKurek@gmail.com</author>
+        </item>
+        <copyright>© 2024 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.</copyright>
+
+        <item>
+            <title>We wish you RISC-V holidays!</title>
+            <link>https://ubuntu.com//blog/we-wish-you-risc-v-holidays</link>
+            <description>Users often face unplanned troubleshooting amid software and hardware issues.</description>
+        </item>
+        <docs>https://ubuntu.com//blog/we-wish-you-risc-v-holidays</docs>
+        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+
+    </channel>
+</rss>
