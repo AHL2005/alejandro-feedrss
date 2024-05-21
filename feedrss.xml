@@ -1,49 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Feed RSS</title>
         <link>https://www.rssowl.org/</link>
         <description>Mi primer feed RSS</description>
         <generator>Visual Studio Code</generator>
+        <language>en</language>
+        <copyright>© 2024 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.</copyright>
+        <docs>https://ubuntu.com/rss</docs>
+        <atom:link href="https://www.rssowl.org/rss.xml" rel="self" type="application/rss+xml" />
+        
 
         <item>
             <title>AI in 2024 – What does the future hold?</title>
-            <link>https://ubuntu.com//blog/ai-in-2024</link>
+            <link>https://ubuntu.com/blog/ai-in-2024</link>
             <description>In 2023, artificial intelligence progressed with challenges in data and computational resources.</description>
-            <guid isPermaLink="true">https://ubuntu.com//blog/ai-in-2024</guid>
+            <guid isPermaLink="true">https://ubuntu.com/blog/ai-in-2024</guid>
         </item>
 
         <item>
             <title>Automotive at CES 2024: What to expect</title>
-            <link>https://ubuntu.com//blog/automotive-at-ces-2024-what-to-expect</link>
+            <link>https://ubuntu.com/blog/automotive-at-ces-2024-what-to-expect</link>
             <description>CES remains the top platform for unveiling groundbreaking innovations in the evolving automotive industry.</description>
-            <comments>https://ubuntu.com//blog/automotive-at-ces-2024-what-to-expect</comments>
+            <comments>https://ubuntu.com/blog/automotive-at-ces-2024-what-to-expect</comments>
+            <guid isPermaLink="true">https://ubuntu.com/blog/automotive-at-ces-2024-what-to-expect</guid>
+            <category>Automotive , CES , Event</category>
         </item>
-        <category>Automotive , CES , Event</category>
 
         <item>
             <title>MOTL: N33 NUC, Part 2</title>
-            <link>https://ubuntu.com//blog/motl-n33-nuc</link>
+            <link>https://ubuntu.com/blog/motl-n33-nuc</link>
             <description>Confirming N33 NUC PXE boot capability is challenging; checking BIOS for details.</description>
-            <source url="https://ubuntu.com//blog/motl-n33-nuc">Fuente del ítem</source>
+            <guid isPermaLink="true">https://ubuntu.com/blog/motl-n33-nuc</guid>
+            <source url="https://ubuntu.com/blog/motl-n33-nuc">Fuente del ítem</source>
         </item>
-        <language>en</language>
 
         <item>
             <title>OpenStack with Sunbeam for small-scale private cloud infrastructure</title>
-            <link>https://ubuntu.com//blog/openstack-with-sunbeam-for-small-scale-private-cloud-infrastructure</link>
+            <link>https://ubuntu.com/blog/openstack-with-sunbeam-for-small-scale-private-cloud-infrastructure</link>
             <description>Implementing a small-scale private cloud, including Kubernetes, can be complex and costly for organizations.</description>
-            <author>TytusKurek@gmail.com</author>
+            <author>example@example.com (Example Example)</author>
+            <guid isPermaLink="true">https://ubuntu.com/blog/openstack-with-sunbeam-for-small-scale-private-cloud-infrastructure</guid>
         </item>
-        <copyright>© 2024 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.</copyright>
 
         <item>
             <title>We wish you RISC-V holidays!</title>
-            <link>https://ubuntu.com//blog/we-wish-you-risc-v-holidays</link>
+            <link>https://ubuntu.com/blog/we-wish-you-risc-v-holidays</link>
             <description>Users often face unplanned troubleshooting amid software and hardware issues.</description>
+            <guid isPermaLink="true">https://ubuntu.com/blog/we-wish-you-risc-v-holidays</guid>
         </item>
-        <docs>https://ubuntu.com//blog/we-wish-you-risc-v-holidays</docs>
-        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
 
     </channel>
 </rss>
